@@ -10,6 +10,7 @@ setup(
     install_requires=[
         'timm',
         'numpy',
+        'torch',
     ],
     classifiers=[
         'Development Status :: 3 - Alpha',
